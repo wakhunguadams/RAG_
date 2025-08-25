@@ -1,0 +1,12 @@
+=== Stock Market RAG Agent ===
+Initializing RAG system...
+Loaded existing vector store with 312 documents
+Initializing LLM...
+Creating RAG chain...
+RAG system ready!
+
+Ask questions about the 2024 stock market performance.
+Type 'exit' or 'quit' to end the session.
+
+=== ANSWER ===
+The S&P 500 delivered roughly a 25% total return in 2024 (approximately +23% in price terms).

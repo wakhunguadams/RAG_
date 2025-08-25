@@ -1,0 +1,12 @@
+=== Stock Market RAG Agent ===
+Initializing RAG system...
+Loaded existing vector store with 312 documents
+Initializing LLM...
+Creating RAG chain...
+RAG system ready!
+
+Ask questions about the 2024 stock market performance.
+Type 'exit' or 'quit' to end the session.
+
+=== ANSWER ===
+I don't know.  The provided text focuses on the performance of the U.S. stock market and doesn't contain any information about the price of Bitcoin in 2024.
